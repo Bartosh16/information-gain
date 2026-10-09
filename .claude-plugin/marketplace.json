@@ -1,0 +1,16 @@
+{
+  "name": "information-gain",
+  "owner": {
+    "name": "Daniel Bartosiewicz"
+  },
+  "metadata": {
+    "description": "Skill do sugestii information gain dla artykułów (PL)."
+  },
+  "plugins": [
+    {
+      "name": "information-gain",
+      "source": "./",
+      "description": "Sugestie information gain dla artykułu według 27 źródeł IG i matrycy decyzyjnej."
+    }
+  ]
+}

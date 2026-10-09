@@ -1,0 +1,13 @@
+{
+  "name": "information-gain",
+  "version": "1.0.0",
+  "description": "Sugestie information gain dla artykułu: fan-out, SERP, ranking URL-i, analiza topu i lista, co dodać według 27 źródeł IG i matrycy decyzyjnej.",
+  "author": {
+    "name": "Daniel Bartosiewicz",
+    "url": "https://dbest-content.com"
+  },
+  "homepage": "https://github.com/Bartosh16/information-gain",
+  "repository": "https://github.com/Bartosh16/information-gain",
+  "license": "MIT",
+  "keywords": ["seo", "information-gain", "serp", "content"]
+}
