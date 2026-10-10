@@ -23,6 +23,18 @@ Do tego **bilet wejścia**: tezy, które ma większość topu, a Tobie ich braku
 
 Liczenie (ranking, konsensus, koszyki) robią skrypty, więc wynik da się powtórzyć. Czytanie stron, nadawanie kluczy tezom i ocenę elementów robi model, z dowodem przy każdej ocenie.
 
+## Ściągawki
+
+Matryca decyzyjna: które źródła information gain pasują do jakiego typu treści i ile kosztują.
+
+![Matryca decyzyjna: koszt, fosa i dopasowanie 10 grup źródeł information gain do 6 typów treści](grafiki/matryca-decyzyjna.png)
+
+Co z 27 elementów zrobi AI, w czym pomoże, a czego nie powinno robić wcale.
+
+![AI zrobi 9 elementów, pomoże przy 14, a 4 zostają wyłącznie dla autora](grafiki/ai-czy-czlowiek.png)
+
+Te same dane w wersji tekstowej, z uzasadnieniami: `skills/ig-sugestie/references/elementy-27.md`.
+
 ## Instalacja
 
 ### Claude Code – jako plugin
